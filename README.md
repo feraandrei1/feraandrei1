@@ -2,7 +2,7 @@
 
 ## 🚀 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,flutter,next,vue,django,redis,mysql,git,docker,nginx,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,next,vue,angular,tailwind,django,redis,mysql,git,docker,nginx,aws,linux" />
 </p>
 
 ## 🔧 I’m currently working on
