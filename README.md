@@ -9,21 +9,22 @@
 - Scalable web platforms
 - API-driven business systems
 - Multi-tenant SaaS architectures
-- Fast frontends with Vue, Nuxt, and React
+- Fast frontends with Vue, Next.js, and Flutter
 
 ## 🌱 I’m currently learning
-- Advanced software architecture
-- DevOps automation
-- High-performance backend patterns
+- Artificial intelligence
+- Cybersecurity
+- Data science
 
 ## 💬 Ask me about
-- Laravel, Vue, Nuxt, React
+- Laravel, Vue, Next.js, Flutter
 - TailwindCSS and modern UI workflows
 - Database design and SQL optimizations
 - API design and system architecture
 
 ## 📫 How to reach me
 Email: **feraandrei1@gmail.com**
+Phone: **+40760231025**
 
 ---
 
