@@ -5,30 +5,33 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,nuxt,react,nodejs,python,go,redis,mysql,postgres,sqlite,git,docker,nginx,aws,linux" />
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+</p>
+
 ## 🔧 I’m currently working on
-- Scalable web platforms
-- API-driven business systems
-- Multi-tenant SaaS architectures
-- Fast frontends with Vue, Next.js, and Flutter
+- Scalable web platforms  
+- API-driven business systems  
+- Multi-tenant SaaS architectures  
+- Fast frontends with Vue, Next.js, and Flutter  
 
 ## 🌱 I’m currently learning
-- Artificial intelligence
-- Cybersecurity
-- Data science
+- Artificial intelligence  
+- Cybersecurity  
+- Data science  
 
 ## 💬 Ask me about
-- Laravel, Vue, Next.js, Flutter
-- TailwindCSS and modern UI workflows
-- Database design and SQL optimizations
-- API design and system architecture
+- Laravel, Vue, Next.js, Flutter  
+- TailwindCSS and modern UI workflows  
+- Database design and SQL optimizations  
+- API design and system architecture  
 
 ## 📫 How to reach me
-Email: **feraandrei1@gmail.com**
-Phone: **+40760231025**
+Email: **feraandrei1@gmail.com**  
+Phone: **[+40760231025](tel:+40760231025)**
 
 ---
 
 ## About Me
 I build modern, performance-focused applications with clean structure and long-term scalability in mind.  
 My work is inspired by high-quality engineering standards similar to what we deliver at Omega Studio Software — elegant systems, smart architecture, and real-world business solutions.
-
